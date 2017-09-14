@@ -1,0 +1,4 @@
+﻿  Raytracer.cpp
+c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\raytracer.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Raytracer.vcxproj -> C:\Users\ComputerMachine\Desktop\Coding\Raytracer\Raytracer\Debug\Raytracer.exe
+  Raytracer.vcxproj -> C:\Users\ComputerMachine\Desktop\Coding\Raytracer\Raytracer\Debug\Raytracer.pdb (Partial PDB)
