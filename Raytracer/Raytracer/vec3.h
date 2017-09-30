@@ -5,7 +5,7 @@
 
 class vec3
 {
-public:
+public://this is a container for an object created in raytracer.cpp (three variables (x,y,z) put in then put into an array allowing for multiple three variables to be divided/added/subtracted etc.
 	//vec3();
 	//~vec3();
 	vec3() {}
@@ -25,7 +25,7 @@ public:
 	inline vec3& operator+=(const vec3 &v2);
 	inline vec3& operator-=(const vec3 &v2);
 	inline vec3& operator*=(const vec3 &v2);
-	inline vec3& operator/=(const vec3 &v2)
+	inline vec3& operator/=(const vec3 &v2);
 	inline vec3& operator*=(const float t);
 	inline vec3& operator/=(const float t);
 
