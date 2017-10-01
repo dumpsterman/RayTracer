@@ -1,9 +1,6 @@
-﻿  vec3.cpp
-c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.h(29): error C2144: syntax error: 'vec3' should be preceded by ';'
-c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.cpp(6): error C2084: function 'vec3::vec3(void)' already has a body
-  c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.h(11): note: see previous definition of '{ctor}'
-c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.cpp(11): error C2600: 'vec3::~vec3': cannot define a compiler-generated special member function (must be declared in the class first)
-  Raytracer.cpp
-c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\raytracer.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Generating Code...
-cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+﻿  Raytracer.cpp
+c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.h(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\vec3.h(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\computermachine\desktop\coding\raytracer\raytracer\raytracer\raytracer.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Raytracer.vcxproj -> C:\Users\ComputerMachine\Desktop\Coding\Raytracer\Raytracer\Debug\Raytracer.exe
+  Raytracer.vcxproj -> C:\Users\ComputerMachine\Desktop\Coding\Raytracer\Raytracer\Debug\Raytracer.pdb (Partial PDB)
